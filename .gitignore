@@ -1,0 +1,11 @@
+.vscode
+__pycache__
+dumps
+lightning_logs
+classification_output*
+.ipynb_checkpoints
+best_config_*
+
+out_*
+core
+results
