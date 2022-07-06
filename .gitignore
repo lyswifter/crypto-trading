@@ -9,3 +9,4 @@ best_config_*
 out_*
 core
 results
+data/*
